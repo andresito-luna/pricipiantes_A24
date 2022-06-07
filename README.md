@@ -4,6 +4,7 @@ Para dar formato al documento se puede usar está guia:
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 # Roles
+
 ## Equipo SCRUM
 
 *La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un **Scrum Master**, un propietario del producto (**Product Owner**)  y desarrolladores (**Developers**).*
