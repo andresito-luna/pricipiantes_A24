@@ -6,7 +6,7 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 # Roles
 ## Equipo SCRUM
 
-*La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un Scrum Master, un propietario del producto (Product Owner)  y desarrolladores (Developers).*
+*La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un **Scrum Master**, un propietario del producto (**Product Owner**)  y desarrolladores (**Developers**).*
 
 *El equipo debe ser suficientemente pequeño como para ser ágil y grande como para completar una cantidad considerable de trabajo dentro de un Sprint. Normalmente los equipos están conformados por 10 personas o menos, ya que en general, los equipos pequeños se comunican mejor y son más productivos.*
 
@@ -14,16 +14,16 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 
 ![esquema roles](https://www.troopsf.com/wp-content/uploads/scrum-roles.png)
 
-**Desarrolladores**
+### **Desarrolladores**
 
 
-Los desarrolladores son aquellos que producen cada uno de los incrementos de cada sprint y siempre son responsables de:
+Los desarrolladores son aquellos que producen cada uno de los _incrementos_ de cada _sprint_ y siempre son responsables de:
 * Crear un plan para el Sprint , la pila de Sprint (Sprint Backlog).
 * Asegurar la calidad mediante la adopción de una Definición de Terminado.
 * Adaptar el Plan de Cada Día para conseguir el Objetivo del Sprint (Sprint Meta).
     
     
- **Propietario del Producto**
+ ### **Propietario del Producto**
  
  El Propietario del Producto es el responsable de Gestionar Efectivamente la Pila de Producto (Product Backlog), Lo que incluye:
  * Desarrollar y Comunicar el objetivo m del Producto (Meta del producto).
@@ -34,7 +34,7 @@ Los desarrolladores son aquellos que producen cada uno de los incrementos de cad
 Es importante resaltar que el propietario del producto es una única persona, y por tanto, se deben respetar sus decisiones. Estas, deben ser reflejadas en el contenido y orden en la pila de producto, como así también en el incremento y la revisión del Sprint .
 
 
-**Scrum Master**
+### **Scrum Master**
 
 El Scrum Master es el encargado de asegurar que la metodología se lleve a cabo tal y como está definida. Esto se logra haciendo que cada persona del equipo entienda la teoría y práctica de la metodología.
 
