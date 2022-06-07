@@ -13,7 +13,9 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 
 *El equipo es responsable de todas las actividades relacionadas al producto desde la colaboración con las partes interesadas, verificación, mantenimiento, experimentación, desarrollo y cualquier otra cosa que pueda ser requerida.*
 
-![esquema roles](https://www.troopsf.com/wp-content/uploads/scrum-roles.png)
+<p align="center">
+  <img src="https://www.troopsf.com/wp-content/uploads/scrum-roles.png">
+</p>
 
 ### **Desarrolladores**
 
