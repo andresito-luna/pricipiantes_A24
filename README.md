@@ -3,9 +3,11 @@ En este documento debemos poner los conceptos que se solicitan en cada issue.
 Para dar formato al documento se puede usar está guia:
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-# Roles
 
-## [Scrum Team](https://youtu.be/Yi8I1ZnrKD4) (Equipo de Scrum)
+## Roles
+
+### [Scrum Team](https://youtu.be/Yi8I1ZnrKD4) (Equipo de Scrum)
+
 
 *La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un **Scrum Master**, un propietario del producto (**Product Owner**)  y desarrolladores (**Developers**).*
 
@@ -16,9 +18,11 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 *Todo el Scrum Team es responsable de crear un Increment valioso y útil en cada Sprint. Scrum define tres responsabilidades específicas dentro del Scrum Team: **los Developers**, el **Product Owner** y el **Scrum Master**.*
 
 
-<p align="center">
-  <img src="https://www.troopsf.com/wp-content/uploads/scrum-roles.png">
+<p align ="center">
+<img src="https://miro.medium.com/max/1400/1*Lqbb6XQgWMRX9TK7xlQy9A.gif" alt="drawing" width="400"/>
 </p>
+
+***
 
 ### **[Developers](https://www.youtube.com/watch?v=vLqCkj0PvtE)** (Desarrolladores)
 
@@ -29,6 +33,7 @@ Las habilidades específicas que necesitan los Developers suelen ser amplias y v
 * Asegurar la calidad mediante la adopción de una Definición de Terminado.
 * Adaptar el Plan de Cada Día para conseguir el Objetivo del Sprint (Sprint Meta).
     
+***
     
  ### **[Product Owner](https://www.youtube.com/watch?v=X7gh07V6aKo)** (Propietario del Producto)
  
@@ -43,6 +48,8 @@ El Product Owner también es responsable de la gestión efectiva del **Product B
 El Product Owner puede realizar el trabajo anterior o puede delegar la responsabilidad en otros. Independientemente de ello, el Product Owner sigue siendo el responsable de que el trabajo se realice.
 
 Para que los Product Owners tengan éxito, toda la organización debe respetar sus decisiones.
+
+***
 
 ### **[Scrum Master](https://youtu.be/cXinM8juOoc)**
 
