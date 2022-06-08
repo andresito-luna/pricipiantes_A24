@@ -20,7 +20,7 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 ### **[Desarrolladores](https://www.youtube.com/watch?v=vLqCkj0PvtE)**
 
 
-Los desarrolladores son aquellos que producen cada uno de los _incrementos_ de cada _sprint_ y siempre son responsables de:
+Los desarrolladores son aquellos que producen cada uno de los incrementos de cada [sprint](https://youtu.be/7yIZOOXZjaU) y siempre son responsables de:
 * Crear un plan para el Sprint , la pila de Sprint (Sprint Backlog).
 * Asegurar la calidad mediante la adopción de una Definición de Terminado.
 * Adaptar el Plan de Cada Día para conseguir el Objetivo del Sprint (Sprint Meta).
