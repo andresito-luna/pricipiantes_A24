@@ -5,49 +5,56 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 
 # Roles
 
-## Equipo SCRUM
+## Scrum Team
 
 *La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un **Scrum Master**, un propietario del producto (**Product Owner**)  y desarrolladores (**Developers**).*
 
 *El equipo debe ser suficientemente pequeño como para ser ágil y grande como para completar una cantidad considerable de trabajo dentro de un Sprint. Normalmente los equipos están conformados por 10 personas o menos, ya que en general, los equipos pequeños se comunican mejor y son más productivos.*
 
-*El equipo es responsable de todas las actividades relacionadas al producto desde la colaboración con las partes interesadas, verificación, mantenimiento, experimentación, desarrollo y cualquier otra cosa que pueda ser requerida.*
+*El Scrum Team es responsable de todas las actividades relacionadas al producto desde la colaboración con las partes interesadas, verificación, mantenimiento, experimentación, desarrollo y cualquier otra cosa que pueda ser necesaria.*
+
+*Todo el Scrum Team es responsable de crear un Increment valioso y útil en cada Sprint. Scrum define tres responsabilidades específicas dentro del Scrum Team: **los Developers**, el **Product Owner** y el **Scrum Master**.*
+
 
 <p align="center">
   <img src="https://www.troopsf.com/wp-content/uploads/scrum-roles.png">
 </p>
 
-### **[Desarrolladores](https://www.youtube.com/watch?v=vLqCkj0PvtE)**
+### **[Developers](https://www.youtube.com/watch?v=vLqCkj0PvtE)** (Desarrolladores)
 
+Las personas del *Scrum Team* que se comprometen a crear cualquier aspecto de un [Increment](https://youtu.be/HA0ki_Synho) utilizable en cada [Sprint](https://youtu.be/7yIZOOXZjaU) son *Developers*. 
 
-Los desarrolladores son aquellos que producen cada uno de los incrementos de cada [sprint](https://youtu.be/7yIZOOXZjaU) y siempre son responsables de:
-* Crear un plan para el Sprint , la pila de Sprint (Sprint Backlog).
+Las habilidades específicas que necesitan los Developers suelen ser amplias y variarán según el ámbito de trabajo. Sin embargo, siempre son responsables de: 
+* Crear un plan para el Sprint, la pila de Sprint (Sprint Backlog).
 * Asegurar la calidad mediante la adopción de una Definición de Terminado.
 * Adaptar el Plan de Cada Día para conseguir el Objetivo del Sprint (Sprint Meta).
     
     
- ### **[Propietario del Producto](https://www.youtube.com/watch?v=X7gh07V6aKo)**
+ ### **[Product Owner](https://www.youtube.com/watch?v=X7gh07V6aKo)** (Propietario del Producto)
  
- El Propietario del Producto es el responsable de Gestionar Efectivamente la Pila de Producto (Product Backlog), Lo que incluye:
- * Desarrollar y Comunicar el objetivo m del Producto (Meta del producto).
- * Crear y comunicar cada uno de los artículos de la pila de producto.
- * Ordenar los artículos de la pila de producto siguiendo alguna prioridad.
- * Asegurar que la pila de producto sea transparente, visible y comprensible.
+El Product Owner es responsable de maximizar el valor del producto resultante del trabajo del Scrum Team. La forma en que esto se hace puede variar ampliamente entre organizaciones, Scrum Teams e individuos. 
 
-Es importante resaltar que el propietario del producto es una única persona, y por tanto, se deben respetar sus decisiones. Estas, deben ser reflejadas en el contenido y orden en la pila de producto, como así también en el incremento y la revisión del Sprint .
+El Product Owner también es responsable de la gestión efectiva del **Product Backlog** (Pila del producto), lo que incluye: 
+ * Desarrollar y Comunicar el Objetivo del Producto.
+ * Crear y comunicar cada uno de los artículos del Product Backlog;.
+ * Ordenar los elementos de Product Backlog;
+ * Asegurar que el Product Backlog; sea transparente, visible y se entienda.
 
+El Product Owner puede realizar el trabajo anterior o puede delegar la responsabilidad en otros. Independientemente de ello, el Product Owner sigue siendo el responsable de que el trabajo se realice.
+
+Para que los Product Owners tengan éxito, toda la organización debe respetar sus decisiones.
 
 ### **[Scrum Master](https://youtu.be/cXinM8juOoc)**
 
-El Scrum Master es el encargado de asegurar que la metodología se lleve a cabo tal y como está definida. Esto se logra haciendo que cada persona del equipo entienda la teoría y práctica de la metodología.
+El Scrum Master es responsable de establecer Scrum como se define en la Guía de Scrum. Lo hace ayudando a todos a comprender la teoría y la práctica de Scrum, tanto dentro del Scrum Team como de la organización.
 
-La persona con el rol de Scrum Master sirve al equipo de Scrum de varias formas:
-* Orienta a los miembros del equipo en la autogestión y la multifuncionalidad.
-* Ayuda a los equipos a enfocarse en crear incrementos de alto valor que cumplan con la definición de Terminado.
-* Remueve los impedimentos de progreso que pudiera tener el equipo.
+La persona con el rol de Scrum Master sirve al Scrum Team de varias formas:
+* Guía a los miembros del equipo en la autogestión y la multifuncionalidad.
+* Ayuda a los equipos a enfocarse en crear *Increments* de alto valor que cumplan con la *Definición de Terminado*.
+* Procura eliminar los impedimentos de progreso que pudiera tener el Scrum Team.
 * Asegura que todos los eventos de Scrum se lleven a cabo y que sean positivos, productivos y dentro de los tiempos establecidos.
 
-El Scrum Master también colabora con el propietario del producto de las siguientes maneras:
+El *Scrum Master* también colabora con el *Product Owner* de las siguientes maneras:
 * Ayuda a encontrar técnicas para definir efectivamente el objetivo del producto y la gestión de la pila de producto.
 * Ayuda a que los miembros del equipo entiendan los artículos de la pila de producto.
 * Ayuda a establecer un planeamiento del producto de manera empírica para entornos que sean complejos.
