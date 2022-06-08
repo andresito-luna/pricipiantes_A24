@@ -17,7 +17,7 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
   <img src="https://www.troopsf.com/wp-content/uploads/scrum-roles.png">
 </p>
 
-### **Desarrolladores**
+### **[Desarrolladores](https://www.youtube.com/watch?v=vLqCkj0PvtE)**
 
 
 Los desarrolladores son aquellos que producen cada uno de los _incrementos_ de cada _sprint_ y siempre son responsables de:
@@ -26,7 +26,7 @@ Los desarrolladores son aquellos que producen cada uno de los _incrementos_ de c
 * Adaptar el Plan de Cada Día para conseguir el Objetivo del Sprint (Sprint Meta).
     
     
- ### **Propietario del Producto**
+ ### **[Propietario del Producto](https://www.youtube.com/watch?v=X7gh07V6aKo)**
  
  El Propietario del Producto es el responsable de Gestionar Efectivamente la Pila de Producto (Product Backlog), Lo que incluye:
  * Desarrollar y Comunicar el objetivo m del Producto (Meta del producto).
@@ -37,7 +37,7 @@ Los desarrolladores son aquellos que producen cada uno de los _incrementos_ de c
 Es importante resaltar que el propietario del producto es una única persona, y por tanto, se deben respetar sus decisiones. Estas, deben ser reflejadas en el contenido y orden en la pila de producto, como así también en el incremento y la revisión del Sprint .
 
 
-### **Scrum Master**
+### **[Scrum Master](https://youtu.be/cXinM8juOoc)**
 
 El Scrum Master es el encargado de asegurar que la metodología se lleve a cabo tal y como está definida. Esto se logra haciendo que cada persona del equipo entienda la teoría y práctica de la metodología.
 
