@@ -5,7 +5,7 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 
 # Roles
 
-## Scrum Team
+## [Scrum Team](https://youtu.be/Yi8I1ZnrKD4) (Equipo de Scrum)
 
 *La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un **Scrum Master**, un propietario del producto (**Product Owner**)  y desarrolladores (**Developers**).*
 
