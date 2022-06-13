@@ -3,6 +3,28 @@ En este documento debemos poner los conceptos que se solicitan en cada issue.
 Para dar formato al documento se puede usar está guia:
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+## Ceremonias que se realizan a lo largo del proyecto:
+* Sprint Planning Meeting
+* Daily Scrum Meeting
+* Sprint Review Meeting
+* Sprint Retrospective Meeting
+
+## [Sprint Planning Meeting](https://www.youtube.com/watch?v=PsGsxhqI9dE) (reunión de planificación del sprint). 
+Se produce al iniciar cada
+Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
+## [Daily Scrum Meeting](https://www.youtube.com/watch?v=o95pRWp16qs) (reunión periódica). 
+Se produce diariamente, y tiene un máximo de
+20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y
+qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
+## [Sprint Review Meeting](https://www.youtube.com/watch?v=InXAS_zRvqQ) (reunión de revisión del Sprint). 
+Se produce al finalizar el Sprint y
+tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el
+Product Owner.
+## [Sprint Retrospective Meeting](https://www.youtube.com/watch?v=bts0nUAiIJI) (reunión de retrospectiva del Sprint). 
+Se produce también al
+finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado
+en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que
+debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
 
 ## Roles
 
