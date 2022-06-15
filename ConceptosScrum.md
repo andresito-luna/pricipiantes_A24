@@ -3,6 +3,10 @@ En este documento debemos poner los conceptos que se solicitan en cada issue.
 Para dar formato al documento se puede usar está guia:
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+<p align = "center">
+<img src = https://www.ariadgroup.com/uploads/general/_xl/ceremonias-scrum.png alt="ceremonias" width="400"/>
+</p>
+
 ## Ceremonias que se realizan a lo largo del proyecto:
 * Sprint Planning Meeting
 * Daily Scrum Meeting
