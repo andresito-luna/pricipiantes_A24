@@ -1,4 +1,27 @@
-# pricipiantes_A24
+<p align ="left">
+<img src="https://revistasaberes.com.ar/wp-content/uploads/2020/10/Logo-ispc.jpg" width="70"/>
+</p>
+
+# **Proyecto de grupo de estudio**
+
+## *Integrantes*:
+* *Andrés Luna*
+* *Luciano Martinez Cosmes*
+* *Facundo Manrique*
+* *Viviana Luque*
+* *Tamara Sorsaburu*
+* *Maria del Carmen Martinez*
+* *Ludmila Luna*
+* *Roberto Mastrángelo*
+* *Claudia Maldonado*
+* *Eduardo Riveros*  
+
+#### **Aula 24**
+#### **Grupo 2**
+
+***
+
+# **Metodologias ágiles con Scrum**
 En este documento debemos poner los conceptos que se solicitan en cada issue.
 Para dar formato al documento se puede usar está guia:
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
@@ -52,6 +75,9 @@ Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha
 ***
 
 ### **[Developers](https://www.youtube.com/watch?v=vLqCkj0PvtE)** (Desarrolladores)
+<p align ="left">
+<img src="https://cutt.ly/zKwqCAq" alt="Developers" width="400"/>
+</p>
 
 Las personas del *Scrum Team* que se comprometen a crear cualquier aspecto de un [Increment](https://youtu.be/HA0ki_Synho) utilizable en cada [Sprint](https://youtu.be/7yIZOOXZjaU) son *Developers*. 
 
@@ -63,7 +89,10 @@ Las habilidades específicas que necesitan los Developers suelen ser amplias y v
 ***
     
  ### **[Product Owner](https://www.youtube.com/watch?v=X7gh07V6aKo)** (Propietario del Producto)
- 
+ <p align ="left">
+<img src="https://cutt.ly/dKq5D1E" alt="Product Owner" width="400"/>
+</p>
+
 El Product Owner es responsable de maximizar el valor del producto resultante del trabajo del Scrum Team. La forma en que esto se hace puede variar ampliamente entre organizaciones, Scrum Teams e individuos. 
 
 El Product Owner también es responsable de la gestión efectiva del **Product Backlog** (Pila del producto), lo que incluye: 
@@ -79,6 +108,9 @@ Para que los Product Owners tengan éxito, toda la organización debe respetar s
 ***
 
 ### **[Scrum Master](https://youtu.be/cXinM8juOoc)**
+<p align ="left">
+<img src="https://cutt.ly/tKq5d7m" alt="Scrum Master" width="400"/>
+</p>
 
 El Scrum Master es responsable de establecer Scrum como se define en la Guía de Scrum. Lo hace ayudando a todos a comprender la teoría y la práctica de Scrum, tanto dentro del Scrum Team como de la organización.
 
