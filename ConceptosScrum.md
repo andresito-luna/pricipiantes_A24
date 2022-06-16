@@ -137,3 +137,127 @@ Durante la reunión de planificación de Sprint, el Scrum Master deberá dese
 
 ![esquema roles](https://images.squarespace-cdn.com/content/v1/5dde466c8ec727201d3ae12f/1604654057978-H5W6LJAX3BQGOWNYOON0/Los+3+roles+de+Scrum+y+sus+caracter%C3%ADsticas?format=1000w)
 
+# **Artefactos Scrum**
+
+En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
+
+<p align ="left">
+<img src="https://blog.buhoos.com/wp-content/uploads/2022/04/Product-sprint-increment.png" alt="Artefactos Scrum" width="400"/>
+</p>
+
+
+* Los artefactos de Scrum representan trabajo o valor.
+* Están diseñados para maximizar la transparencia de la información clave.
+* Por lo tanto, todas las personas que los inspeccionan tienen la misma base de adaptación.
+
+Cada artefacto contiene un compromiso para garantizar que proporcione información que mejore la transparencia y el enfoque frente al cual se pueda medir el progreso:
+
+* Para el Product Backlog, es el Objetivo del Producto
+* Para el Sprint Backlog, es el Objetivo del Sprint
+* Para el Incremento es la Definición de Terminado
+
+
+## PRODUCT BACKLOG
+El Product Backlog es una lista emergente y ordenada de lo que se necesita para mejorar el producto. Es la única fuente del trabajo realizado por el Scrum Team.
+
+
+<p align ="left">
+<img src="https://blog.buhoos.com/wp-content/uploads/2022/04/Product-Backlog.png" alt="PRODUCT BACKLOG" width="400"/>
+</p>
+
+
+Los elementos del Product Backlog que el Scrum Team puede dar por Terminados dentro de un Sprint se consideran preparados para ser seleccionados en un evento de Sprint Planning.
+
+
+<p align ="left">
+<img src="https://blog.buhoos.com/wp-content/uploads/2022/04/refinamiento-planeacion.png" alt="PRODUCT BACKLOG" width="400"/>
+</p>
+
+
+Refinamiento y Planeación
+* Refinamiento de Backlog
+* Diferentes tipos de importación de Backlog
+* Post-its digitales
+* Plantillas pre-diseñadas
+* Tags
+* Software de simulación de tableros de Scrum
+
+Planeación del Sprint
+* Post-its digitales
+* Plantilas pre-diseñadas
+* Software de simulación de tableros de Scrum
+* Backlog • Compartir pantalla
+
+Suelen adquirir este grado de transparencia tras las actividades
+de refinamiento.
+
+El refinamiento del Product Backlog es el acto de dividir y definir aún más los elementos del Product Backlog en elementos más pequeños y precisos.<br>
+Esta es una actividad continua para agregar detalles, como una descripción, orden y tamaño. Los atributos suelen variar según el ámbito del trabajo.<br>
+Los Developers que realizarán el trabajo son responsables del dimensionamiento.<br>
+El Product Owner puede influir en los Developers ayudándolos a entender y seleccionar sus mejores alternativas.<br>
+
+
+### Compromiso: Objetivo del Producto
+
+El Objetivo del Producto describe un estado futuro del producto que puede servir como un objetivo para que el Scrum Team planifique.<br>
+El Objetivo del Producto está en el Product Backlog.<br>
+El resto del Product Backlog emerge para definir «qué» cumplirá con el Objetivo del Producto.<br>
+Un producto es un vehículo para entregar valor. Tiene un límite claro, personas interesadas conocidas, usuarios o clientes bien definidos.<br>
+Un producto puede ser un servicio, un producto físico o algo más abstracto.<br>
+El Objetivo del Producto es el objetivo a largo plazo del Scrum Team.<br>
+Ellos deben cumplir (o abandonar) un objetivo antes de asumir el siguiente.<br>
+
+
+## SPRINT BACKLOG
+
+El Sprint Backlog se compone de:
+
+1.	El Objetivo del Sprint (por qué)
+2.	El conjunto de elementos del Product Backlog seleccionados para el Sprint (qué)
+3.	El plan de acción para entregar el Incremento (cómo)
+
+El Sprint Backlog es un plan realizado por y para los Developers.<br>
+Es una imagen muy visible y en tiempo real del trabajo que los Developers planean realizar durante el Sprint para lograr el Objetivo del Sprint.<br>
+El Sprint Backlog se actualiza a lo largo del Sprint a medida que se aprende más.<br>
+Debe tener suficientes detalles para que puedan inspeccionar su progreso en la Daily Scrum.<br>
+
+### Compromiso: Objetivo del Sprint
+
+El Objetivo del Sprint es el único propósito del Sprint.<br>
+Si bien el Objetivo del Sprint es un compromiso de los Developers, proporciona flexibilidad en términos del trabajo exacto necesario para lograrlo.<br>
+El Objetivo del Sprint también crea coherencia y enfoque, lo que alienta al Scrum Team a trabajar en conjunto en lugar de en iniciativas separadas.<br>
+El Objetivo del Sprint se crea durante el evento Sprint Planning y se agrega al Sprint Backlog.<br>
+Los Developers que trabajan durante el Sprint, tienen en mente el Objetivo del Sprint.<br>
+Si el trabajo resulta ser diferente de lo que esperaban, colaboran con el Product Owner para negociar el alcance del Sprint Backlog dentro del
+Sprint sin afectar el Objetivo del Sprint.<br>
+
+
+<p align ="left">
+<img src="https://blog.buhoos.com/wp-content/uploads/2022/04/sprint-goal.png" alt="PRODUCT BACKLOG" width="400"/>
+</p>
+
+
+
+## INCREMENTO
+* Un Incremento es un peldaño concreto hacia el Objetivo del Producto
+* Cada Incremento se suma a todos los Incrementos anteriores y se verifica minuciosamente, lo que garantiza que todos los Incrementos funcionen juntos
+* Para proporcionar valor, el Incremento debe ser utilizable
+* Se pueden crear múltiples Incrementos dentro de un Sprint
+* La suma de los Incrementos se presenta en la Sprint Review apoyando así el empirismo
+* Se puede entregar un Incremento a los interesados antes del final del Sprint
+* La Sprint Review nunca debe considerarse una puerta para liberar valor
+* El trabajo no puede considerarse parte de un Incremento a menos que cumpla con la Definición de Terminado
+
+### Compromiso: Definición de Terminado
+* La Definición de Terminado es una descripción formal del estado del Incremento cuando cumple con las medidas de calidad requeridas para el producto
+* Incremento
+* Un incremento nace en el momento en que un elemento del Product Backlog cumple con la Definición de Terminado
+* La Definición de Terminado crea transparencia. (Brinda entendimiento de qué trabajo se terminó)
+* No se publican ni presentan en el Sprint Review elementos del Product Backlog que no cumplen con la Definición de Terminado
+* Los elementos del Product Backlog que no cumplen con la definición de terminado vuelven al Product Backlog para ser considerados en el futuro
+* La Definición de Terminado para un Incremento, puede ser parte de los estándares de la organización.
+* Si no es un estándar organizacional, el Scrum Team debe crear una Definición de Terminado apropiada para el producto
+* Todos los Scrum Teams deben seguir la Definición de Terminado
+* Los Developers deben adherirse a la Definición de Terminado
+* Si hay varios Scrum Teams trabajando juntos en un producto, deben definir y cumplir mutuamente la misma Definición de Terminado
+
