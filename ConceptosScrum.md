@@ -234,6 +234,7 @@ La necesidad de comunicarnos de forma efectiva esta siempre presente  en cada un
 ![download](https://user-images.githubusercontent.com/106885977/174463271-539fab58-f189-4b2e-a57a-c9c87c81b153.jpg)
 
 
+
 ## SPRINT BACKLOG
 
 El Sprint Backlog se compone de:
