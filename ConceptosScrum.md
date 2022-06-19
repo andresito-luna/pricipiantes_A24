@@ -207,6 +207,25 @@ Un producto puede ser un servicio, un producto físico o algo más abstracto.<br
 El Objetivo del Producto es el objetivo a largo plazo del Scrum Team.<br>
 Ellos deben cumplir (o abandonar) un objetivo antes de asumir el siguiente.<br>
 
+##  ¿QUE ES UN SPRINT?
+Sprint es el nombre que va a recibir cada uno de los ciclos o iteraciones que vamos a tener dentro de dentro de un proyecto Scrum.
+Nos van a permitir tener un ritmo de trabajo con un tiempo prefijado, siendo la duración habitual de un Sprint unas cuatro semanas, aunque lo que la metodología dice es que debería estar entre dos semanas y un máximo de dos meses.
+Para a mpliar este concepto, podemos agregar que se trata de un periodo de corta duración que debe finalizar con un prototipo operativo o producto parcialmete entregable. El mismo se repite n veces  a lo largo del proyecto y permite hacer entragas  de producto en partes, donde cada entrega, es un incremento de funcionalidad respecto al anterior. Esto difiere del conocido ciclo de vida en Cascada muy utilizado en el campo de desarrollode software en que, las faces del ciclo de vida (requisitos, análisis, diseño, codificación, testing, etc.) se realizan una única vez y el inicio de cada fase no comienza  hasta que termina la que precede.
+
+##CARACTERÍSTICAS DE LOS SPRINTS
+-Una vez que han sido definidos no puede haber cambios durante la ejecución que supongan un riesgo para la consecución de los objetivos.
+-Se deben trabajar en orden de mayor a menor importancia para el cliente, y mejor de uno en uno.
+-No hay tiempos intermedios, en cuanto acaba un Sprint comienza el siguiente.
+-Cada Sprint puede tener una duración diferente, pero todos los que conforman un Scrum no deberían durar más de un mes.
+-La cancelación del Sprint es decisión exclusiva del Product Owner.
+
+##  BENEFICIOS DE LOS SPRINTS
+-Permiten a los equipos centrarse en cómo aportar más valor al producto o al proyecto, al aislarlos de cualquier distracción.
+-Cuantos más Sprints se hacen mejor se puede predecir el avance de los proyectos, lo que mejora la eficiencia al hacer más fácil el abordaje de las dificultades que pueden surgir.
+-Al no producirse cambios en el sprint goal, todo el equipo tiene un gran control sobre la planificación y los costes.
+-Cada miembro el equipo puede trabajar de forma auto-organizada, pero siempre en consonancia con los demás.
+-Permite entregar valor al cliente de forma más ágil y que este pueda ver cómo evoluciona poco a poco el proyecto.
+
 
 ## SPRINT BACKLOG
 
