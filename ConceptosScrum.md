@@ -212,7 +212,7 @@ Sprint es el nombre que va a recibir cada uno de los ciclos o iteraciones que va
 Nos van a permitir tener un ritmo de trabajo con un tiempo prefijado, siendo la duración habitual de un Sprint unas cuatro semanas, aunque lo que la metodología dice es que debería estar entre dos semanas y un máximo de dos meses.
 Para a mpliar este concepto, podemos agregar que se trata de un periodo de corta duración que debe finalizar con un prototipo operativo o producto parcialmete entregable. El mismo se repite n veces  a lo largo del proyecto y permite hacer entragas  de producto en partes, donde cada entrega, es un incremento de funcionalidad respecto al anterior. Esto difiere del conocido ciclo de vida en Cascada muy utilizado en el campo de desarrollode software en que, las faces del ciclo de vida (requisitos, análisis, diseño, codificación, testing, etc.) se realizan una única vez y el inicio de cada fase no comienza  hasta que termina la que precede.
 
-##CARACTERÍSTICAS DE LOS SPRINTS
+## CARACTERÍSTICAS DE LOS SPRINTS
 -Una vez que han sido definidos no puede haber cambios durante la ejecución que supongan un riesgo para la consecución de los objetivos.
 -Se deben trabajar en orden de mayor a menor importancia para el cliente, y mejor de uno en uno.
 -No hay tiempos intermedios, en cuanto acaba un Sprint comienza el siguiente.
