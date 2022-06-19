@@ -226,6 +226,11 @@ Para a mpliar este concepto, podemos agregar que se trata de un periodo de corta
 -Cada miembro el equipo puede trabajar de forma auto-organizada, pero siempre en consonancia con los demás.
 -Permite entregar valor al cliente de forma más ágil y que este pueda ver cómo evoluciona poco a poco el proyecto.
 
+![images](https://user-images.githubusercontent.com/106885977/174462900-1ff23ae6-b2d3-4a0f-971e-cc373e8d3535.jpg)
+
+### EL ROL DE LA COMUNICACIÓN
+"La forma más eficiente y  efectiva de comunicar ionformación de ida y vuelta  dentro de un equipo de desarrollo es mediante la comunicación cara a cara".
+La necesidad de comunicarnos de forma efectiva esta siempre presente  en cada uno de los pasos que debamos ejercer para llevar a  la tarea de la forma más eficiente y concreta posible.
 
 ## SPRINT BACKLOG
 
