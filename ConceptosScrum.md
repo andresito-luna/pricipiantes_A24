@@ -231,8 +231,7 @@ Para a mpliar este concepto, podemos agregar que se trata de un periodo de corta
 "La forma más eficiente y  efectiva de comunicar ionformación de ida y vuelta  dentro de un equipo de desarrollo es mediante la comunicación cara a cara".
 La necesidad de comunicarnos de forma efectiva esta siempre presente  en cada uno de los pasos que debamos ejercer para llevar a  la tarea de la forma más eficiente y concreta posible.
 
-< p alinear = "centro" > 
-![download](https://user-images.githubusercontent.com/106885977/174463193-64d46546-2816-47bb-b24f-f3020a3ef494.jpg)
+![download](https://user-images.githubusercontent.com/106885977/174463271-539fab58-f189-4b2e-a57a-c9c87c81b153.jpg)
 
 
 ## SPRINT BACKLOG
