@@ -137,7 +137,7 @@ Durante la reunión de planificación de Sprint, el Scrum Master deberá dese
 
 ![esquema roles](https://images.squarespace-cdn.com/content/v1/5dde466c8ec727201d3ae12f/1604654057978-H5W6LJAX3BQGOWNYOON0/Los+3+roles+de+Scrum+y+sus+caracter%C3%ADsticas?format=1000w)
 
-# **Artefactos Scrum**
+### **[Artefactos Scrum](https://www.youtube.com/watch?v=ZLYnmI8dbVs)**
 
 En el marco de trabajo Scrum, denominamos Artefacto a aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
 
